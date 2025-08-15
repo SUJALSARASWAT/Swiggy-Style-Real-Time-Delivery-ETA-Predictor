@@ -10,7 +10,7 @@ Built to simulate the type of ETA prediction systems used by companies like Swig
 - **Live APIs**:  
   - [OpenWeatherMap API](https://openweathermap.org/api) for current temperature & weather conditions.  
   - [TomTom Routing API](https://developer.tomtom.com/) for real-time traffic delay data.
-- **Metrics**: RMSE ~3.17 mins | MAE ~2.53 mins
+- **Metrics**: RMSE ~2.97 mins | MAE ~2.25 mins
 - **Deployment**: Interactive [Gradio](https://gradio.app/) web app with public share link for demos.
 
 ---
