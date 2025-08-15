@@ -22,8 +22,3 @@ Built to simulate the type of ETA prediction systems used by companies like Swig
 
 ---
 
-## 🚀 How to Run Locally
-1. **Clone this repo**:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/eta-predictor.git
-   cd eta-predictor
